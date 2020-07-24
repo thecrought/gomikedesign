@@ -830,6 +830,14 @@ h4 {
     background-image: url("img/atlanta%20made%20sign%20orange.jpg");
 }
 
+.col-sm-4 {
+    margin-top: 20px;
+}
+
+.col-sm-4 li {
+    margin: 10px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
