@@ -1070,11 +1070,13 @@ h4 {
     }
 
     .col-sm-4 p {
-        text-align: left;
+        text-align: center;
     }
 
     .col-sm-4 ul li {
-        position: right;
+        margin: auto;
+        width: 25%;
+        list-style-type: none;
     }
 }
 
